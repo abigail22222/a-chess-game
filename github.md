@@ -1,0 +1,1 @@
+有了github desktop就可以不用 git remote之类的了
